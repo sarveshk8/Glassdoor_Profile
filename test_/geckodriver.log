@@ -1,0 +1,678 @@
+1669026058861	geckodriver	INFO	Listening on 127.0.0.1:54995
+1669026061911	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofileGnLlDp"
+1669026062347	Marionette	INFO	Marionette enabled
+1669026062351	Marionette	INFO	Listening on port 55026
+Read port: 55026
+1669026062711	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofileGnLlDp\\search.json.mozlz4", (void 0)))
+JavaScript error: https://www.glassdoor.co.in/index.htm line 501 > injectedScript, line 1: ReferenceError: ttq is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+1669026087071	Marionette	INFO	Stopped listening on port 55026
+[Parent 14428, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1669089058448	geckodriver	INFO	Listening on 127.0.0.1:58844
+1669089058526	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofile6GDAmo"
+1669089063022	Marionette	INFO	Marionette enabled
+1669089063033	Marionette	INFO	Listening on port 58874
+Read port: 58874
+1669089063860	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofile6GDAmo\\search.json.mozlz4", (void 0)))
+JavaScript error: https://www.glassdoor.co.in/index.htm line 501 > injectedScript, line 1: ReferenceError: ttq is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/HXK1UBO5dJ_nYlUyX89SMP4zFPzfcfFy3F4kBoREzco.js line 2 > eval line 7636 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669089075120	Marionette	INFO	Stopped listening on port 58874
+[Parent 26388, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1669196256803	geckodriver	INFO	Listening on 127.0.0.1:54041
+1669196261925	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofileTtEIsv"
+1669196262261	Marionette	INFO	Marionette enabled
+1669196262267	Marionette	INFO	Listening on port 54075
+Read port: 54075
+1669196262504	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofileTtEIsv\\search.json.mozlz4", (void 0)))
+JavaScript error: https://www.glassdoor.co.in/index.htm line 501 > injectedScript, line 1: ReferenceError: ttq is not defined
+1669196266662	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1669196275016	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 3039 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+1669196276654	Marionette	INFO	Stopped listening on port 54075
+[Parent 19280, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1669203968014	geckodriver	INFO	Listening on 127.0.0.1:63233
+1669203971078	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofilexehX0Z"
+1669203971380	Marionette	INFO	Marionette enabled
+1669203971387	Marionette	INFO	Listening on port 63277
+Read port: 63277
+1669203971506	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofilexehX0Z\\search.json.mozlz4", (void 0)))
+JavaScript error: https://www.glassdoor.co.in/index.htm line 501 > injectedScript, line 1: ReferenceError: ttq is not defined
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 763))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 415))
+1669204010407	geckodriver	INFO	Listening on 127.0.0.1:63473
+1669204013478	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofileVJMl7e"
+1669204013728	Marionette	INFO	Marionette enabled
+1669204013733	Marionette	INFO	Listening on port 63490
+Read port: 63490
+1669204013833	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofileVJMl7e\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 763))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 415))
+JavaScript error: https://www.glassdoor.co.in/index.htm line 501 > injectedScript, line 1: ReferenceError: ttq is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 6280 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+1669204032621	Marionette	INFO	Stopped listening on port 63490
+[Parent 16628, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1669205829411	geckodriver	INFO	Listening on 127.0.0.1:64586
+1669205832446	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofilePMpycA"
+1669205832816	Marionette	INFO	Marionette enabled
+1669205832822	Marionette	INFO	Listening on port 64619
+Read port: 64619
+1669205833131	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofilePMpycA\\search.json.mozlz4", (void 0)))
+JavaScript error: https://www.glassdoor.co.in/index.htm line 501 > injectedScript, line 1: ReferenceError: ttq is not defined
+1669205836789	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 1330 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669205840136	Marionette	INFO	Stopped listening on port 64619
+1669274823010	geckodriver	INFO	Listening on 127.0.0.1:64212
+1669274828115	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofileSvWn1b"
+1669274828624	Marionette	INFO	Marionette enabled
+1669274828629	Marionette	INFO	Listening on port 64245
+Read port: 64245
+1669274829169	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofileSvWn1b\\search.json.mozlz4", (void 0)))
+1669274833054	Marionette	INFO	Stopped listening on port 64245
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1669274900858	geckodriver	INFO	Listening on 127.0.0.1:64420
+1669274903867	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofilefyrOB4"
+1669274904223	Marionette	INFO	Marionette enabled
+1669274904228	Marionette	INFO	Listening on port 64433
+Read port: 64433
+1669274904491	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofilefyrOB4\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+JavaScript error: https://www.glassdoor.co.in/index.htm line 501 > injectedScript, line 1: ReferenceError: ttq is not defined
+JavaScript error: https://www.glassdoor.co.in/member/home/index.htm line 501 > injectedScript, line 1: ReferenceError: ttq is not defined
+1669274924278	Marionette	INFO	Stopped listening on port 64433
+1669275039305	geckodriver	INFO	Listening on 127.0.0.1:64821
+1669275042281	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofileuFuHJp"
+1669275042633	Marionette	INFO	Marionette enabled
+1669275042638	Marionette	INFO	Listening on port 64833
+Read port: 64833
+1669275042944	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofileuFuHJp\\search.json.mozlz4", (void 0)))
+JavaScript error: https://www.glassdoor.co.in/index.htm line 501 > injectedScript, line 1: ReferenceError: ttq is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+1669275068754	Marionette	INFO	Stopped listening on port 64833
+1669275160655	geckodriver	INFO	Listening on 127.0.0.1:65242
+1669275163689	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofilexnQbdm"
+1669275164102	Marionette	INFO	Marionette enabled
+1669275164107	Marionette	INFO	Listening on port 65269
+Read port: 65269
+1669275164417	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofilexnQbdm\\search.json.mozlz4", (void 0)))
+JavaScript error: https://www.glassdoor.co.in/index.htm line 501 > injectedScript, line 1: ReferenceError: ttq is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+1669275211338	Marionette	INFO	Stopped listening on port 65269
+[Parent 32432, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1669275355495	geckodriver	INFO	Listening on 127.0.0.1:49362
+1669275358534	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofiledU4LOK"
+1669275358911	Marionette	INFO	Marionette enabled
+1669275358916	Marionette	INFO	Listening on port 49375
+Read port: 49375
+1669275359224	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofiledU4LOK\\search.json.mozlz4", (void 0)))
+JavaScript error: https://www.glassdoor.co.in/index.htm line 501 > injectedScript, line 1: ReferenceError: ttq is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+1669275400657	Marionette	INFO	Stopped listening on port 49375
+1669275556673	geckodriver	INFO	Listening on 127.0.0.1:50083
+1669275559691	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofileBlQ83a"
+1669275560058	Marionette	INFO	Marionette enabled
+1669275560062	Marionette	INFO	Listening on port 50114
+Read port: 50114
+1669275560393	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofileBlQ83a\\search.json.mozlz4", (void 0)))
+JavaScript error: https://www.glassdoor.co.in/index.htm line 501 > injectedScript, line 1: ReferenceError: ttq is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+JavaScript error: https://www.glassdoor.co.in/member/home/index.htm line 501 > injectedScript, line 1: ReferenceError: ttq is not defined
+1669275593669	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1669275594969	Marionette	INFO	Stopped listening on port 50114
+1669280966164	geckodriver	INFO	Listening on 127.0.0.1:51471
+1669280969262	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofileywYgZD"
+1669280969638	Marionette	INFO	Marionette enabled
+1669280969642	Marionette	INFO	Listening on port 51499
+Read port: 51499
+1669280969944	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofileywYgZD\\search.json.mozlz4", (void 0)))
+JavaScript error: https://www.glassdoor.co.in/index.htm line 501 > injectedScript, line 1: ReferenceError: ttq is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 1372 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.glassdoor.co.in/member/home/index.htm line 501 > injectedScript, line 1: ReferenceError: ttq is not defined
+1669280982359	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1669280983971	Marionette	INFO	Stopped listening on port 51499
+1669281174274	geckodriver	INFO	Listening on 127.0.0.1:51905
+1669281177265	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofilenxarCi"
+1669281177653	Marionette	INFO	Marionette enabled
+1669281177657	Marionette	INFO	Listening on port 51919
+Read port: 51919
+1669281177929	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofilenxarCi\\search.json.mozlz4", (void 0)))
+1669281180523	Marionette	INFO	Stopped listening on port 51919
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 717: Error: Phase "quit-application-granted" is finished, it is too late to register completion condition "ContentParent: id=2bcabc87100"
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1669281696836	geckodriver	INFO	Listening on 127.0.0.1:52333
+1669281699852	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofileh3BIYP"
+1669281700224	Marionette	INFO	Marionette enabled
+1669281700231	Marionette	INFO	Listening on port 52365
+Read port: 52365
+1669281700498	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 415))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofileh3BIYP\\search.json.mozlz4", (void 0)))
+1669281701852	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1669281702774	Marionette	INFO	Stopped listening on port 52365
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1669281820685	geckodriver	INFO	Listening on 127.0.0.1:52719
+1669281823714	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofileskgY9t"
+1669281824069	Marionette	INFO	Marionette enabled
+1669281824073	Marionette	INFO	Listening on port 52743
+Read port: 52743
+1669281824318	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofileskgY9t\\search.json.mozlz4", (void 0)))
+JavaScript error: https://www.glassdoor.co.in/index.htm line 501 > injectedScript, line 1: ReferenceError: ttq is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 2746 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:325:29
+observe@resource://gre/modules/AsyncShutdown.jsm:574:16
+
+1669281835678	Marionette	INFO	Stopped listening on port 52743
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1669281926473	geckodriver	INFO	Listening on 127.0.0.1:53062
+1669281929523	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofile1qez4q"
+1669281929849	Marionette	INFO	Marionette enabled
+1669281929852	Marionette	INFO	Listening on port 53074
+Read port: 53074
+1669281930088	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofile1qez4q\\search.json.mozlz4", (void 0)))
+JavaScript error: https://www.glassdoor.co.in/index.htm line 501 > injectedScript, line 1: ReferenceError: ttq is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 2029 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.glassdoor.co.in/member/home/index.htm line 501 > injectedScript, line 1: ReferenceError: ttq is not defined
+1669281943237	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1669281943846	Marionette	INFO	Stopped listening on port 53074
+1669281979084	geckodriver	INFO	Listening on 127.0.0.1:53359
+1669281982127	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofileSBPeaG"
+1669281982480	Marionette	INFO	Marionette enabled
+1669281982484	Marionette	INFO	Listening on port 53371
+Read port: 53371
+1669281982709	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofileSBPeaG\\search.json.mozlz4", (void 0)))
+1669281985167	Marionette	INFO	Stopped listening on port 53371
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1669282022151	geckodriver	INFO	Listening on 127.0.0.1:53526
+1669282025168	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofilepV8SAL"
+1669282025511	Marionette	INFO	Marionette enabled
+1669282025515	Marionette	INFO	Listening on port 53539
+Read port: 53539
+1669282025750	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofilepV8SAL\\search.json.mozlz4", (void 0)))
+JavaScript error: https://www.glassdoor.co.in/index.htm line 501 > injectedScript, line 1: ReferenceError: ttq is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 2261 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.glassdoor.co.in/member/home/index.htm line 501 > injectedScript, line 1: ReferenceError: ttq is not defined
+1669282039171	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1669282041307	Marionette	INFO	Stopped listening on port 53539
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Parent 23336, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1669287964613	geckodriver	INFO	Listening on 127.0.0.1:56721
+1669287967681	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofileI6oAn6"
+1669287968060	Marionette	INFO	Marionette enabled
+1669287968064	Marionette	INFO	Listening on port 56749
+Read port: 56749
+1669287968599	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofileI6oAn6\\search.json.mozlz4", (void 0)))
+JavaScript error: https://www.glassdoor.co.in/index.htm line 501 > injectedScript, line 1: ReferenceError: ttq is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 5959 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.glassdoor.co.in/member/home/index.htm line 501 > injectedScript, line 1: ReferenceError: ttq is not defined
+1669287983901	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1669287985457	Marionette	INFO	Stopped listening on port 56749
+[Parent 25072, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1669288517276	geckodriver	INFO	Listening on 127.0.0.1:57396
+1669288520344	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofileTujO86"
+1669288520789	Marionette	INFO	Marionette enabled
+1669288520794	Marionette	INFO	Listening on port 57437
+Read port: 57437
+1669288521090	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 415))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofileTujO86\\search.json.mozlz4", (void 0)))
+1669288522499	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1669288550826	Marionette	INFO	Stopped listening on port 57437
+1669307271335	geckodriver	INFO	Listening on 127.0.0.1:63563
+1669307274356	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofileEBegaZ"
+1669307274890	Marionette	INFO	Marionette enabled
+1669307274895	Marionette	INFO	Listening on port 63590
+Read port: 63590
+1669307275437	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofileEBegaZ\\search.json.mozlz4", (void 0)))
+JavaScript error: https://www.glassdoor.co.in/index.htm line 501 > injectedScript, line 1: ReferenceError: ttq is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+JavaScript error: , line 0: uncaught exception: undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+1669307291308	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:325:29
+observe@resource://gre/modules/AsyncShutdown.jsm:574:16
+
+1669307321353	Marionette	INFO	Stopped listening on port 63590
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1669307430155	geckodriver	INFO	Listening on 127.0.0.1:63979
+1669307433183	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofileWrUU5D"
+1669307433568	Marionette	INFO	Marionette enabled
+1669307433572	Marionette	INFO	Listening on port 63993
+Read port: 63993
+1669307433879	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofileWrUU5D\\search.json.mozlz4", (void 0)))
+JavaScript error: https://www.glassdoor.co.in/index.htm line 501 > injectedScript, line 1: ReferenceError: ttq is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+JavaScript error: , line 0: uncaught exception: undefined
+1669307455174	Marionette	INFO	Stopped listening on port 63993
+1669307516696	geckodriver	INFO	Listening on 127.0.0.1:64311
+1669307519779	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofilewfTiNR"
+1669307520200	Marionette	INFO	Marionette enabled
+1669307520205	Marionette	INFO	Listening on port 64323
+Read port: 64323
+1669307520505	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofilewfTiNR\\search.json.mozlz4", (void 0)))
+JavaScript error: https://www.glassdoor.co.in/index.htm line 501 > injectedScript, line 1: ReferenceError: ttq is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+JavaScript error: , line 0: uncaught exception: undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+JavaScript error: https://www.glassdoor.co.in/member/home/index.htm line 501 > injectedScript, line 1: ReferenceError: ttq is not defined
+1669307536078	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1669307681086	geckodriver	INFO	Listening on 127.0.0.1:64700
+1669307684167	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofile032IyX"
+1669307684572	Marionette	INFO	Marionette enabled
+1669307684576	Marionette	INFO	Listening on port 64729
+Read port: 64729
+1669307684888	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofile032IyX\\search.json.mozlz4", (void 0)))
+JavaScript error: https://www.glassdoor.co.in/index.htm line 501 > injectedScript, line 1: ReferenceError: ttq is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 7067 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669307702083	Marionette	INFO	Stopped listening on port 64729
+[Parent 30400, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1669308507429	geckodriver	INFO	Listening on 127.0.0.1:49327
+1669308510462	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofile5s8yTP"
+1669308510779	Marionette	INFO	Marionette enabled
+1669308510783	Marionette	INFO	Listening on port 49351
+Read port: 49351
+1669308511136	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofile5s8yTP\\search.json.mozlz4", (void 0)))
+JavaScript error: https://www.glassdoor.co.in/index.htm line 501 > injectedScript, line 1: ReferenceError: ttq is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 854 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669308527803	Marionette	INFO	Stopped listening on port 49351
+[Parent 32644, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1669309470311	geckodriver	INFO	Listening on 127.0.0.1:50784
+1669309473322	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofilek1Pp6G"
+1669309473652	Marionette	INFO	Marionette enabled
+1669309473656	Marionette	INFO	Listening on port 50818
+Read port: 50818
+1669309473941	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofilek1Pp6G\\search.json.mozlz4", (void 0)))
+JavaScript error: https://www.glassdoor.co.in/index.htm line 501 > injectedScript, line 1: ReferenceError: ttq is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+JavaScript error: , line 0: uncaught exception: undefined
+1669309492623	Marionette	INFO	Stopped listening on port 50818
+[Parent 11772, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1669314640509	geckodriver	INFO	Listening on 127.0.0.1:55377
+1669314643565	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofileMp1v60"
+1669314643967	Marionette	INFO	Marionette enabled
+1669314643973	Marionette	INFO	Listening on port 55405
+Read port: 55405
+1669314644532	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofileMp1v60\\search.json.mozlz4", (void 0)))
+JavaScript error: https://www.glassdoor.co.in/index.htm line 501 > injectedScript, line 1: ReferenceError: ttq is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 2437 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.glassdoor.co.in/member/home/index.htm line 501 > injectedScript, line 1: ReferenceError: ttq is not defined
+1669314657626	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+1669315260395	geckodriver	INFO	Listening on 127.0.0.1:56217
+1669315263453	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofileTi0qC4"
+1669315263845	Marionette	INFO	Marionette enabled
+1669315263850	Marionette	INFO	Listening on port 56247
+Read port: 56247
+1669315264363	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofileTi0qC4\\search.json.mozlz4", (void 0)))
+JavaScript error: https://www.glassdoor.co.in/index.htm line 501 > injectedScript, line 1: ReferenceError: ttq is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 6708 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669315345689	geckodriver	INFO	Listening on 127.0.0.1:56511
+1669315348789	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofilemKO2yB"
+1669315349151	Marionette	INFO	Marionette enabled
+1669315349155	Marionette	INFO	Listening on port 56524
+Read port: 56524
+1669315349400	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofilemKO2yB\\search.json.mozlz4", (void 0)))
+JavaScript error: https://www.glassdoor.co.in/index.htm line 501 > injectedScript, line 1: ReferenceError: ttq is not defined
+1669315355170	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 3696 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.glassdoor.co.in/member/home/index.htm line 501 > injectedScript, line 1: ReferenceError: ttq is not defined
+1669315364990	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 2216 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:325:29
+observe@resource://gre/modules/AsyncShutdown.jsm:574:16
+
+1669315392537	Marionette	INFO	Stopped listening on port 56524
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 31212, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:559
+1669367638518	geckodriver	INFO	Listening on 127.0.0.1:64460
+1669367641591	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofilerIiLYe"
+1669367642133	Marionette	INFO	Marionette enabled
+1669367642138	Marionette	INFO	Listening on port 64492
+Read port: 64492
+1669367642622	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofilerIiLYe\\search.json.mozlz4", (void 0)))
+JavaScript error: https://www.glassdoor.co.in/index.htm line 501 > injectedScript, line 1: ReferenceError: ttq is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/HXK1UBO5dJ_nYlUyX89SMP4zFPzfcfFy3F4kBoREzco.js line 2 > eval line 6957 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.glassdoor.co.in/member/home/index.htm line 501 > injectedScript, line 1: ReferenceError: ttq is not defined
+1669367654266	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/HXK1UBO5dJ_nYlUyX89SMP4zFPzfcfFy3F4kBoREzco.js line 2 > eval line 6351 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+1669367675313	Marionette	INFO	Stopped listening on port 64492
+[Parent 23608, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1669367936536	geckodriver	INFO	Listening on 127.0.0.1:65125
+1669367939594	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofile4TQzZz"
+1669367939989	Marionette	INFO	Marionette enabled
+1669367939995	Marionette	INFO	Listening on port 65140
+Read port: 65140
+1669367940342	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofile4TQzZz\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+1669367945925	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+JavaScript error: https://www.glassdoor.co.in/index.htm line 501 > injectedScript, line 1: ReferenceError: ttq is not defined
+1669367946376	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1669367946716	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: , line 0: uncaught exception: undefined
+1669367958780	Marionette	INFO	Stopped listening on port 65140
+[Parent 33192, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1669369608140	geckodriver	INFO	Listening on 127.0.0.1:51238
+1669369611209	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofileaXmRvK"
+1669371306416	geckodriver	INFO	Listening on 127.0.0.1:52215
+1669371309423	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofileVZY7kv"
+1669371309855	Marionette	INFO	Marionette enabled
+1669371309861	Marionette	INFO	Listening on port 52244
+Read port: 52244
+1669371310362	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofileVZY7kv\\search.json.mozlz4", (void 0)))
+JavaScript error: https://www.glassdoor.co.in/index.htm line 501 > injectedScript, line 1: ReferenceError: ttq is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+1669371791982	geckodriver	INFO	Listening on 127.0.0.1:53198
+1669371795039	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofileoqFwwA"
+1669371795449	Marionette	INFO	Marionette enabled
+1669371795455	Marionette	INFO	Listening on port 53232
+Read port: 53232
+1669371795922	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofileoqFwwA\\search.json.mozlz4", (void 0)))
+JavaScript error: https://www.glassdoor.co.in/index.htm line 501 > injectedScript, line 1: ReferenceError: ttq is not defined
+1669371800931	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/HXK1UBO5dJ_nYlUyX89SMP4zFPzfcfFy3F4kBoREzco.js line 2 > eval line 3628 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.glassdoor.co.in/member/home/index.htm line 501 > injectedScript, line 1: ReferenceError: ttq is not defined
+1669371808389	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/HXK1UBO5dJ_nYlUyX89SMP4zFPzfcfFy3F4kBoREzco.js line 2 > eval line 7013 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669371921436	geckodriver	INFO	Listening on 127.0.0.1:53582
+1669371924467	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofileqaiU76"
+1669371924864	Marionette	INFO	Marionette enabled
+1669371924869	Marionette	INFO	Listening on port 53596
+Read port: 53596
+1669371925196	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofileqaiU76\\search.json.mozlz4", (void 0)))
+1669372196435	geckodriver	INFO	Listening on 127.0.0.1:54022
+1669372199511	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofilewxuS5s"
+1669372200081	Marionette	INFO	Marionette enabled
+1669372200087	Marionette	INFO	Listening on port 54083
+Read port: 54083
+1669372200491	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofilewxuS5s\\search.json.mozlz4", (void 0)))
+JavaScript error: https://www.glassdoor.co.in/index.htm line 501 > injectedScript, line 1: ReferenceError: ttq is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+1669372223305	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:325:29
+observe@resource://gre/modules/AsyncShutdown.jsm:574:16
+
+1669372238405	Marionette	INFO	Stopped listening on port 54083
+[Parent 33124, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1669373181744	geckodriver	INFO	Listening on 127.0.0.1:56118
+1669373184798	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofileHN3hI4"
+1669373185175	Marionette	INFO	Marionette enabled
+1669373185180	Marionette	INFO	Listening on port 56147
+Read port: 56147
+1669373185457	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofileHN3hI4\\search.json.mozlz4", (void 0)))
+JavaScript error: https://www.glassdoor.co.in/index.htm line 501 > injectedScript, line 1: ReferenceError: ttq is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 406 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669373294149	geckodriver	INFO	Listening on 127.0.0.1:56440
+1669376768303	geckodriver	INFO	Listening on 127.0.0.1:62499
+1669376771334	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofileGHkepS"
+1669376771738	Marionette	INFO	Marionette enabled
+1669376771743	Marionette	INFO	Listening on port 62530
+Read port: 62530
+1669376772015	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofileGHkepS\\search.json.mozlz4", (void 0)))
+JavaScript error: https://www.glassdoor.co.in/index.htm line 501 > injectedScript, line 1: ReferenceError: ttq is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/HXK1UBO5dJ_nYlUyX89SMP4zFPzfcfFy3F4kBoREzco.js line 2 > eval line 7011 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669377178174	geckodriver	INFO	Listening on 127.0.0.1:63111
+1669377181196	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofilew2Xyxm"
+1669377181598	Marionette	INFO	Marionette enabled
+1669377181603	Marionette	INFO	Listening on port 63142
+Read port: 63142
+1669377181946	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofilew2Xyxm\\search.json.mozlz4", (void 0)))
+JavaScript error: https://www.glassdoor.co.in/index.htm line 501 > injectedScript, line 1: ReferenceError: ttq is not defined
+1669377186516	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/HXK1UBO5dJ_nYlUyX89SMP4zFPzfcfFy3F4kBoREzco.js line 2 > eval line 5804 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.glassdoor.co.in/member/home/index.htm line 501 > injectedScript, line 1: ReferenceError: ttq is not defined
+1669377193798	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/HXK1UBO5dJ_nYlUyX89SMP4zFPzfcfFy3F4kBoREzco.js line 2 > eval line 1119 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669377273736	geckodriver	INFO	Listening on 127.0.0.1:63331
+1669377276840	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofileMHJ4dF"
+1669377277230	Marionette	INFO	Marionette enabled
+1669377277235	Marionette	INFO	Listening on port 63345
+Read port: 63345
+1669377277558	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofileMHJ4dF\\search.json.mozlz4", (void 0)))
+JavaScript error: https://www.glassdoor.co.in/index.htm line 501 > injectedScript, line 1: ReferenceError: ttq is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/HXK1UBO5dJ_nYlUyX89SMP4zFPzfcfFy3F4kBoREzco.js line 2 > eval line 3441 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Parent 16612, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: https://www.glassdoor.co.in/member/home/index.htm line 501 > injectedScript, line 1: ReferenceError: ttq is not defined
+1669377289614	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/HXK1UBO5dJ_nYlUyX89SMP4zFPzfcfFy3F4kBoREzco.js line 2 > eval line 490 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Marionette threw an error: NotFoundError: WindowGlobalParent.getActor: No such JSWindowActor 'MarionetteCommands'
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:325:65
+unregisterCommandsActor@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:396:15
+GeckoDriver.prototype.deleteSession@chrome://remote/content/marionette/driver.sys.mjs:2277:8
+onClosed@chrome://remote/content/marionette/server.sys.mjs:206:17
+close@chrome://remote/content/marionette/transport.sys.mjs:219:18
+onInputStreamReady@chrome://remote/content/marionette/transport.sys.mjs:373:14
+
+1669377367864	geckodriver	INFO	Listening on 127.0.0.1:63533
+1669377370976	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofileDP3kxt"
+1669377371352	Marionette	INFO	Marionette enabled
+1669377371357	Marionette	INFO	Listening on port 63548
+Read port: 63548
+1669377371690	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofileDP3kxt\\search.json.mozlz4", (void 0)))
+JavaScript error: https://www.glassdoor.co.in/index.htm line 501 > injectedScript, line 1: ReferenceError: ttq is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/HXK1UBO5dJ_nYlUyX89SMP4zFPzfcfFy3F4kBoREzco.js line 2 > eval line 3888 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.glassdoor.co.in/member/home/index.htm line 501 > injectedScript, line 1: ReferenceError: ttq is not defined
+1669377380475	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/HXK1UBO5dJ_nYlUyX89SMP4zFPzfcfFy3F4kBoREzco.js line 2 > eval line 434 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+1669377527015	Marionette	INFO	Stopped listening on port 63548
+1669377800000	geckodriver	INFO	Listening on 127.0.0.1:64206
+1669377803044	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofileFFA5kI"
+1669377803444	Marionette	INFO	Marionette enabled
+1669377803450	Marionette	INFO	Listening on port 64245
+Read port: 64245
+1669377803949	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofileFFA5kI\\search.json.mozlz4", (void 0)))
+JavaScript error: https://www.glassdoor.co.in/index.htm line 501 > injectedScript, line 1: ReferenceError: ttq is not defined
+1669377808270	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/HXK1UBO5dJ_nYlUyX89SMP4zFPzfcfFy3F4kBoREzco.js line 2 > eval line 5809 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.glassdoor.co.in/member/home/index.htm line 501 > injectedScript, line 1: ReferenceError: ttq is not defined
+1669377816285	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/HXK1UBO5dJ_nYlUyX89SMP4zFPzfcfFy3F4kBoREzco.js line 2 > eval line 6942 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+1669377961322	Marionette	INFO	Stopped listening on port 64245
+[Parent 27304, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1669378221156	geckodriver	INFO	Listening on 127.0.0.1:64960
+1669378224281	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofileUf8mTA"
+1669378224663	Marionette	INFO	Marionette enabled
+1669378224668	Marionette	INFO	Listening on port 64991
+Read port: 64991
+1669378225100	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofileUf8mTA\\search.json.mozlz4", (void 0)))
+JavaScript error: https://www.glassdoor.co.in/index.htm line 501 > injectedScript, line 1: ReferenceError: ttq is not defined
+1669378229735	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/HXK1UBO5dJ_nYlUyX89SMP4zFPzfcfFy3F4kBoREzco.js line 2 > eval line 6188 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.glassdoor.co.in/member/home/index.htm line 501 > injectedScript, line 1: ReferenceError: ttq is not defined
+1669378237864	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/HXK1UBO5dJ_nYlUyX89SMP4zFPzfcfFy3F4kBoREzco.js line 2 > eval line 1172 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:325:29
+observe@resource://gre/modules/AsyncShutdown.jsm:574:16
+
+1669378316141	Marionette	INFO	Stopped listening on port 64991
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1669437451038	geckodriver	INFO	Listening on 127.0.0.1:51781
+1669437454128	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofileoizdOA"
+1669437454669	Marionette	INFO	Marionette enabled
+1669437454675	Marionette	INFO	Listening on port 51810
+Read port: 51810
+1669437455229	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofileoizdOA\\search.json.mozlz4", (void 0)))
+JavaScript error: https://www.glassdoor.co.in/index.htm line 501 > injectedScript, line 1: ReferenceError: ttq is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+JavaScript error: https://www.glassdoor.co.in/member/home/index.htm line 501 > injectedScript, line 1: ReferenceError: ttq is not defined
+1669437475125	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/HXK1UBO5dJ_nYlUyX89SMP4zFPzfcfFy3F4kBoREzco.js line 2 > eval line 5030 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1669438045325	geckodriver	INFO	Listening on 127.0.0.1:52468
+1669438048450	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofilexGjuAM"
+1669438048833	Marionette	INFO	Marionette enabled
+1669438048838	Marionette	INFO	Listening on port 52513
+Read port: 52513
+1669438049129	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofilexGjuAM\\search.json.mozlz4", (void 0)))
+JavaScript error: https://www.glassdoor.co.in/index.htm line 501 > injectedScript, line 1: ReferenceError: ttq is not defined
+1669438053420	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/HXK1UBO5dJ_nYlUyX89SMP4zFPzfcfFy3F4kBoREzco.js line 2 > eval line 6199 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.glassdoor.co.in/member/home/index.htm line 501 > injectedScript, line 1: ReferenceError: ttq is not defined
+1669438060269	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/HXK1UBO5dJ_nYlUyX89SMP4zFPzfcfFy3F4kBoREzco.js line 2 > eval line 146 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+1669438723461	geckodriver	INFO	Listening on 127.0.0.1:53335
+1669438726556	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofileSy7F8X"
+1669438726945	Marionette	INFO	Marionette enabled
+1669438726951	Marionette	INFO	Listening on port 53374
+Read port: 53374
+1669438727393	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofileSy7F8X\\search.json.mozlz4", (void 0)))
+JavaScript error: https://www.glassdoor.co.in/index.htm line 501 > injectedScript, line 1: ReferenceError: ttq is not defined
+1669438731689	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/HXK1UBO5dJ_nYlUyX89SMP4zFPzfcfFy3F4kBoREzco.js line 2 > eval line 4321 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.glassdoor.co.in/member/home/index.htm line 501 > injectedScript, line 1: ReferenceError: ttq is not defined
+1669438738879	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/HXK1UBO5dJ_nYlUyX89SMP4zFPzfcfFy3F4kBoREzco.js line 2 > eval line 1861 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:325:29
+observe@resource://gre/modules/AsyncShutdown.jsm:574:16
+
+1669438843303	Marionette	INFO	Stopped listening on port 53374
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1669439122711	geckodriver	INFO	Listening on 127.0.0.1:54349
+1669439125786	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofileUrzCu0"
+1669439126213	Marionette	INFO	Marionette enabled
+1669439126219	Marionette	INFO	Listening on port 54389
+Read port: 54389
+1669439126477	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sarvesh\\AppData\\Local\\Temp\\rust_mozprofileUrzCu0\\search.json.mozlz4", (void 0)))
+JavaScript error: https://www.glassdoor.co.in/index.htm line 501 > injectedScript, line 1: ReferenceError: ttq is not defined
+1669439130878	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/HXK1UBO5dJ_nYlUyX89SMP4zFPzfcfFy3F4kBoREzco.js line 2 > eval line 167 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.glassdoor.co.in/member/home/index.htm line 501 > injectedScript, line 1: ReferenceError: ttq is not defined
+1669439137657	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/HXK1UBO5dJ_nYlUyX89SMP4zFPzfcfFy3F4kBoREzco.js line 2 > eval line 5121 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.glassdoor.co.in."
+1669439297471	Marionette	INFO	Stopped listening on port 54389
+[Parent 33252, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
